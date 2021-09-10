@@ -1,5 +1,7 @@
 ## Marcela Galvis Restrepo
 
+I am a PhD fellow at Copenhagen Business School doing research in Machine Learning
+
 https://www.linkedin.com/in/marcelagalvis/
 
 ### Markdown
